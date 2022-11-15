@@ -1,9 +1,18 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Open in Visual Studio Code](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://github.dev/ArianeDlns/spotify-dev/tree/main)
 
-## Spotify Developer project 
+## Spotify Developer project
 
-This project is a simple web application that allows you to search for an artist and display the top 10 tracks of this artist.  
+This repository is a compilation of fun personal exploration of the Spotify API
+
+### 1. First project: exploration of collaborative playlist
+Haven't you always wondered who contributed the most to your collaborative playlist?
+<div class="alert alert-block alert-success">
+<b>:bulb: <font color='green'>Explore:</font></b> Collaborative playlists and provide insights
+</div>
+
+**Technologies used**: Spotipy, Streamlit, Pandas, Plotly
+
 
 ## License
 

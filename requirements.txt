@@ -1,2 +1,4 @@
 nb_black:
 pre-commit:
+streamlit:
+colormap:

@@ -128,9 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# theme folder 
+# theme folder
 */themes/*
 
-# data and credentials 
-*/data/*
+# data and credentials
+data/*
+img/users/*
 credentials.yml
