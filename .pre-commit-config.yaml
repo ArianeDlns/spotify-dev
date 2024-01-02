@@ -14,3 +14,9 @@ repos:
       rev: 5.10.1
       hooks:
           - id: isort
+    - repo: https://github.com/kynan/nbstripout
+      rev: 0.6.1
+      hooks:
+        - id: nbstripout
+          name: nbstripout (strip outputs from notebooks)
+          files: \.ipynb$
